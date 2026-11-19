@@ -1,0 +1,9 @@
+{
+  "id": "filename-paste-fullwidth",
+  "name": "Filename Paste Fullwidth",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Convert Windows-reserved punctuation to fullwidth forms when pasting into file names.",
+  "author": "OpenAI",
+  "isDesktopOnly": true
+}
