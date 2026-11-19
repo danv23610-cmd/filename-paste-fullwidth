@@ -53,3 +53,7 @@ It works in the inline note title, pane title, and file list rename field. Selec
 4. 点击笔记标题，粘贴 `Counterfactual Reasoning, Qualitative: Philosophical Aspects`，然后按 Enter。标题中的冒号会转成 `：`。
 
 `main.js` 是插件源码，可以直接阅读或修改，无需编译。
+
+## License / 许可
+
+MIT License. See [LICENSE](./LICENSE). / 本插件采用 MIT 许可证，详见 [LICENSE](./LICENSE)。
